@@ -1,6 +1,6 @@
 # TrashScan - Aplikasi Deteksi Sampah Berbasis AI
 
-TrashScan adalah aplikasi mobile berbasis Flutter yang memanfaatkan teknologi AI on Edge (Edge Computing) untuk mendeteksi dan mengklasifikasikan jenis sampah secara real-time langsung di perangkat pengguna — tanpa koneksi internet, tanpa server.
+TrashScan adalah aplikasi mobile berbasis Flutter yang memanfaatkan teknologi AI on Edge (Edge Computing) untuk mendeteksi dan mengklasifikasikan jenis sampah secara real-time langsung di perangkat pengguna tanpa koneksi internet dan tanpa server.
 Aplikasi ini membantu pengguna memilah sampah dengan benar hanya dengan mengarahkan kamera ke objek sampah. Sistem akan secara otomatis mengenali jenis sampah dan memberikan informasi cara pembuangan yang tepat.
 
 
