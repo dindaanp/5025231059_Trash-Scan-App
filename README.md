@@ -33,7 +33,7 @@ Setiap hasil deteksi dilengkapi dengan tips cara pembuangan yang tepat sesuai je
 
 <img width="250" src="https://github.com/user-attachments/assets/40709cda-d030-42dc-b089-f1e7a8c46faa" />
 
-<img width="250" src="https://github.com/user-attachments/assets/56d52fc2-146c-4c80-ab0b-231d87d820a2" />  <img width="250" src="https://github.com/user-attachments/assets/0244df85-dc44-4cf0-bd0f-c3dc3af8d121" />  <img width="250" src="https://github.com/user-attachments/assets/a20f4e36-0301-4de4-a272-5fbdb1e4ea58" />
+<img width="250" src="https://github.com/user-attachments/assets/3bc05751-05e4-4426-a69a-33e0cb377e9d" />  <img width="250" src="https://github.com/user-attachments/assets/0244df85-dc44-4cf0-bd0f-c3dc3af8d121" />  <img width="250" src="https://github.com/user-attachments/assets/a20f4e36-0301-4de4-a272-5fbdb1e4ea58" />
 
 
 
