@@ -24,7 +24,8 @@ Pengguna dapat memilih foto dari galeri untuk dianalisis. Aplikasi akan memprose
 ### 4. Tips Pembuangan
 Setiap hasil deteksi dilengkapi dengan tips cara pembuangan yang tepat sesuai jenis sampah yang terdeteksi.
 
-### Screenshots
+
+## Screenshots
 <img width="250" src="https://github.com/user-attachments/assets/04204166-2cd3-4e0d-b43b-4b02f26f8fa0" />
 
 <img width="250" src="https://github.com/user-attachments/assets/10187982-95cb-4aa8-80a5-16e1ade3504f" />  <img width="250" src="https://github.com/user-attachments/assets/cd2c728a-c866-4a8b-866b-7a4de38ef801" />  <img width="250" src="https://github.com/user-attachments/assets/0493dc09-8949-4b50-ad50-bff5e033917b" />
